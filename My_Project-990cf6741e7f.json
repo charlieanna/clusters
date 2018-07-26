@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hardy-moon-199316",
+  "private_key_id": "990cf6741e7fee9dcd6c89c4eb321efcbac0df5f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsZNGGwwma67E4\nz7+wmxjKyabROkfhjKOu3utTsC6JvPRMkYaAVKzHxzuxxAVjQlXB+KguWQNRxgdR\nttMMkI57Wq4IMGHxpCN7NecjIkudlfODd7228TMe05LeNFIIt4EhImuMiDAl7UU2\n6ASuhYU/qblE4nUsO072/0jISdoe/PnwVTKYIGFjcmE0XD/VioYmsDCQeRdG9czh\n7/oE/szrXzNBNvXbicmuAw7puWyiT0AcSuH44Ilpcpit3+wYnqTscO3rVwwE0MNG\n+5pGJ5a9u4DIQD4Z/R5a1w8NXXN44EfgYwJjyOb87J+EBwD4hTpPYQZaixJAhK/j\nx60K2RzdAgMBAAECggEALgmQcMIWBxKpFahZIxMQKFt4mohLWN7jeVgblRJII01c\nGjSErDGwoHtCpELaQ3scBrxeQV5RBh3xp29A5iqWejepoRM2nL6+IPGwo4/NjKxW\nRwYLmlbIVZOftYpYW+6RY+VavkFCRmaaJMMKOQb8Ihezm8M0EldWS5y59Y7PWpW4\nugKHM9oBJDshMXjumO7pfgjP6pK/Adgpplx/GB9Kd+A3gthvJoZtbeFVdx1+kwZR\nCl+K3z3Za+FhOIfipe5EWBJksyTWYjpVDHuNs7T8o6Cr7A6+HAMT703gyjXkxQ7x\n3nepE5XGfs5saHRB8YlsmWu7za/JOrkLjBEtpOceWwKBgQDhMCITwqOrNIQlfT99\ncS9b2hR4SmPYZxNiR1qbymRyC6oYgFNEcFbn81tDP21ZFwRsFHYjHoAc/A3V2iPd\nYo2dLN/yl8drrQZSuio3AmNpLtnDWCmcKtYFXJtri8Krqtx0/++tiibKJCmtPw25\naijmi1qX/PncEWZpu/wTjx9eRwKBgQDD+2onEiTD13/IkynzwP2jpfRti2KFQodR\nTFjc4peRMKFfuGnn8zHyPwWB+xlcVFEuz/BX+3XdZAcX8dumXNOVjiE9XGNZWwju\nSgkQXi400aTFyWShWkmrieH4y/8YTLESHKf3ms3ESNC1IQgxjWPOnZKFXj0gtCZS\niwuxgAtJuwKBgFeTD32d0WbQip/FwL45GVDgU9ugGopbM7ehxkQWBtAvZxwWM8vG\n4JVeF9zkOtNN10NtBbCMuQgMohjLt+zt2eMJQ6KlkkF2zaG4kphIDn8mYDvO+oeo\nRQlaxXqipLd8QDYkHoLf2kv8mlSs09qKxZM7GKVJFaaXAbwXBmZY37sbAoGAdWWz\nbvglYdNDTokpRkTDKzaMNtqaB62UlZSgXqC1nll9MXOsrS83Kh+qUvRxeqdfgiU5\nmdqd/iKfRS6yHvPYIuxi6Pjg4nPv454h09Y245j5lSlQyH7nRoRwArNgedPm9iyI\nSYBH5l6f9wB0ggpqUSh+zrlm8KI5mpSESq2jFWUCgYAPJYCos8qh9KewA/CdInfl\nTQc5/Oci+/tUEpj7Eua2hpJDdN24VK8wMTEi16sey2zA2qsGBELWBlUTei0HRr4+\n1Whs3/DD0kFqJzoSVuQCnTL52iUFwBj5T9/nKx60xZhYbgQiFdC2NkFvKxAFJ0zq\n0df6jnTxr8XJDhKJruddrQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "social-media-mining@hardy-moon-199316.iam.gserviceaccount.com",
+  "client_id": "111424422427232568500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/social-media-mining%40hardy-moon-199316.iam.gserviceaccount.com"
+}
