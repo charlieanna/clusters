@@ -21,8 +21,7 @@ from nltk.tokenize import RegexpTokenizer
 from google.cloud import bigquery
 
 G = nx.Graph()
-client = bigquery.Client.from_service_account_json(
-        'My_Project-c23185ac100b.json')
+client = bigquery.Client.from_service_account_json('My_Project-c23185ac100b.json')
 
 dataset_ref = client.dataset('Stackunderflow')
 dataset = bigquery.Dataset(dataset_ref)
@@ -167,9 +166,3 @@ for cluster in v1:
             print(e.strerror)
 
 
-try:
-    with open('a.txt', 'r') as f1:
-        for line in f1:
-            sys.stdout.write(line)
-except IOError as e:
-    if e.errno == errno.EPIPE:
