@@ -8,7 +8,6 @@ import os
 from sklearn import metrics
 from scipy.spatial.distance import cdist
 import numpy as np
-import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 import csv 
 import sys #used for passing in the argument
