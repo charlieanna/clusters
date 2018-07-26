@@ -3,7 +3,6 @@ import operator
 import networkx as nx
 from nltk.util import ngrams
 from nltk import FreqDist
-import matplotlib.pyplot as plt
 from gensim.models import Word2Vec
 import os
 from sklearn import metrics
